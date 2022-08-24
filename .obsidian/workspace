@@ -4,11 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "4abe8bae76348b25",
+        "id": "3612cedbd2b0c7e6",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "image",
+          "state": {
+            "file": "many to many jpa relation ship.png"
+          }
         }
       }
     ],
@@ -73,6 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "many to many jpa relation ship.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "many to many jpa relation ship.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +114,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "many to many jpa relation ship.png"
+              }
             }
           }
         ]
@@ -120,8 +126,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4abe8bae76348b25",
+  "active": "39aad50d22f7a380",
   "lastOpenFiles": [
-    "Untitled.md"
+    "ویژگی های جدید.md",
+    "git.md",
+    "opsidian.md",
+    "unisystem project.md",
+    "composit key.md",
+    "img/Pasted image 20220823233634.png",
+    "img/Pasted image 20220823231255.png",
+    "Pasted image 20220823231103.png![[Pasted image 20220823233634.png.md",
+    "Pasted image 20220823233609.png",
+    "img/Pasted image 20220823231103.png.md"
   ]
 }
